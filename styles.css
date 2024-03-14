@@ -1,0 +1,84 @@
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 13, 12 Pro Max – 6;
+		--web-view-id: iPhone_13_12_Pro_Max__6;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-center-vertically: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#iPhone_13_12_Pro_Max__6 {
+		position: absolute;
+		display: block;
+		width: 428px;
+		height: 926px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: view;
+		--web-action-target: iPhone_13_12_Pro_Max__7;
+		cursor: pointer;
+		--web-view-name: iPhone 13, 12 Pro Max – 6;
+		--web-view-id: iPhone_13_12_Pro_Max__6;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-center-vertically: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_1_fk {
+		fill: url(#Rectangle_1_fk);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1_fk {
+		position: absolute;
+		overflow: visible;
+		width: 428px;
+		height: 926px;
+		left: 0px;
+		top: 0px;
+	}
+	#artifact_logo_fl {
+		position: absolute;
+		width: 428px;
+		height: 428px;
+		left: 0px;
+		top: 267px;
+		overflow: visible;
+	}
+	#artifact_logo_tsgaan_fm {
+		position: absolute;
+		width: 349px;
+		height: 349px;
+		left: 40px;
+		top: -52px;
+		overflow: visible;
+		transition: all 0.5s wind-up;
+		--web-animation: fadein 0.5s wind-up;
+		--web-action-type: view;
+		--web-action-target: iPhone_13_12_Pro_Max__1;
+		cursor: pointer;
+	}
+}
